@@ -56,7 +56,7 @@ export default function RSVP() {
             <form onSubmit={handleSubmit}>
               <div className="field">
                 <label htmlFor="name">Your name</label>
-                <input id="name" name="name" required placeholder="e.g. Auntie Priya" />
+                <input id="name" name="name" required placeholder="e.g. Priya" />
               </div>
               <div className="field">
                 <label htmlFor="guests">Number of guests</label>
