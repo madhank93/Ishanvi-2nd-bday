@@ -2,7 +2,7 @@
 
 A playful, pastel butterfly-themed invite site for Ishanvi's 2nd birthday.
 
-**Live:** https://madhank93.github.io/Ishanvi-2nd-bday/
+**Live:** https://ishanvi-2nd-bday.github.io/
 
 🎀 **26th June 2026 · Friday · 7:00 PM · Amaravathi Restaurant**
 
